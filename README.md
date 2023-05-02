@@ -16,3 +16,5 @@ promoters.txt: A single column of properly formatted promoter sequences which wi
 Zea_mays.B73_RefGen_v4.48.chromosome.1.gff3 : a gff3 file provided as an example but can be replaced with any properly formatted .gff3 file
 
 Zea_mays.B73_RefGen_v4.dna.chromosome.1.fa : a fasta file provided as an example but can be replaced with any properly formatted .fa file 
+
+results.txt: A text file that is printed as a table with the promoters as the rownames and the gene names as the column headers. Each value represents the number of times that the promoter was found in the gene. 
